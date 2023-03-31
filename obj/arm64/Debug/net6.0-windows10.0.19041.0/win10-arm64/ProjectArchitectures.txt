@@ -1,0 +1,1 @@
+C:\Users\yukse.DESKTOP-46EUPBS\source\repos\Otobüs Bİleti Alim Satim Otomasyonu\Otobüs Bİleti Alim Satim Otomasyonu\Otobüs Bİleti Alim Satim Otomasyonu.csproj;arm64

@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Otobüs Bİleti Alim Satim Otomasyonu (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Otobüs Bİleti Alim Satim Otomasyonu (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
